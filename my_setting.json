@@ -1,0 +1,89 @@
+{
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/baka/.vscode/extensions/custom/style_vscode.css",
+    "file:///c:/Users/baka/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+  ],
+
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "chatgpt.lang": "en",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "powermode.shake.enabled": false,
+  "powermode.shake.intensity": 0,
+  "powermode.explosions.explosionOrder": "random",
+  "emmet.triggerExpansionOnTab": true,
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 100,
+  "notebook.output.wordWrap": true,
+  "editor.fontSize": 17,
+  "powermode.combo.location": "off",
+  "powermode.explosions.backgroundMode": "image",
+  "powermode.explosions.size": 10,
+  "scm.inputFontSize": 15,
+  "workbench.preferredDarkColorTheme": "Dracula",
+  "workbench.preferredHighContrastLightColorTheme": "Dracula",
+  "workbench.preferredLightColorTheme": "Dracula",
+  "editor.suggest.preview": true,
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "tabnine.experimentalAutoImports": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Bearded Theme feat. Will",
+  "files.autoSave": "afterDelay",
+  "extensions.ignoreRecommendations": true,
+  "update.showReleaseNotes": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.lineHeight": 2,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editor.enablePreview": false,
+  "explorer.compactFolders": false,
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "vscode-icons",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fastScrollSensitivity": 15,
+  "editor.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.cursorBlinking": "expand",
+  "workbench.editor.wrapTabs": true,
+  "gitlens.views.drafts.avatars": false,
+  "terminal.integrated.env.windows": {},
+  "console-ninja.featureSet": "Community",
+  "workbench.productIconTheme": "fluent-icons",
+  "powermode.explosions.customExplosions": [],
+  "powermode.explosions.customCss": {},
+  "hediet.vscode-drawio.resizeImages": null,
+  "indentRainbow.colors": [
+    "rgba(29, 78, 137,0.15)",
+    "rgba(58, 178, 202,0.15)",
+    "rgba(125, 207, 182, 0.15)",
+    "rgba(251, 209, 162,0.15)",
+    "rgba(247, 146, 86,0.15)",
+    "rgba(247, 146, 86,0.1)",
+    "rgba(247, 146, 86,0.05)"
+  ],
+  "powermode.enabled": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorStyleInactive": "line"
+}
